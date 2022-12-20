@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdmpstr
-- 👀 I’m interested in everything
+- 👀 I’m interested in everything and nothing, at the same time
 - 🌱 I’m currently learning angular
 
 <!---
